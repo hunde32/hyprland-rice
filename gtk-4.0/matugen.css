@@ -1,0 +1,38 @@
+/* Import this file in your ~/.config/gtk-4.0/gtk.css and ~/.config/gtk-3.0/gtk.css */
+
+/* Accent Colors */
+@define-color accent_color #ffb3ad;
+@define-color accent_bg_color #ffb3ad;
+@define-color accent_fg_color #571e1b;
+
+/* Window Colors */
+@define-color window_bg_color #1a1110;
+@define-color window_fg_color #f1dedd;
+
+/* Views (e.g., inside file manager) */
+@define-color view_bg_color #1a1110;
+@define-color view_fg_color #f1dedd;
+
+/* Header Bars */
+@define-color headerbar_bg_color #1a1110;
+@define-color headerbar_fg_color #f1dedd;
+@define-color headerbar_backdrop_color @window_bg_color;
+@define-color headerbar_shade_color rgba(0, 0, 0, 0.07);
+
+/* Popovers & Cards */
+@define-color card_bg_color #140c0b;
+@define-color card_fg_color #f1dedd;
+@define-color popover_bg_color #140c0b;
+@define-color popover_fg_color #f1dedd;
+
+/* Dialogs */
+@define-color dialog_bg_color #140c0b;
+@define-color dialog_fg_color #f1dedd;
+
+/* Destructive / Success */
+@define-color destructive_color #ffb4ab;
+@define-color destructive_bg_color #ffb4ab;
+@define-color destructive_fg_color #690005;
+@define-color success_color #e1c28c;
+@define-color success_bg_color #e1c28c;
+@define-color success_fg_color #402d04;

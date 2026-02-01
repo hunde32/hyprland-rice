@@ -1,0 +1,46 @@
+@import "../../.cache/matugen/waybar-colors.css";
+
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "JetBrainsMono Nerd Font";
+    font-weight: bold;
+    font-size: 16px;
+    min-height: 0;
+}
+
+window#waybar {
+    /* Fully Opaque Background */
+    background: @background; 
+    color: @foreground;
+}
+
+#workspaces {
+    background: transparent;
+    margin: 10px 0;
+}
+
+#workspaces button {
+    padding: 10px 0;
+    color: @foreground;
+    transition: all 0.3s ease;
+}
+
+#workspaces button.active {
+    color: @primary;
+}
+
+/* Common styling for icons */
+#clock, #custom-notification, #power-profiles-daemon, 
+#mpd, #pulseaudio, #network, #battery {
+    padding: 10px 0;
+    background: transparent;
+    color: @foreground;
+}
+
+/* Specific Colors */
+#clock { color: @primary; font-size: 14px; }
+#power-profiles-daemon { color: @secondary; }
+#network { color: @tertiary; }
+#battery { color: @primary; font-size: 12px; }
+#mpd { color: @secondary; }

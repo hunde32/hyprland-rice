@@ -1,0 +1,171 @@
+@import "../../.cache/matugen/waybar-colors.css";
+
+
+* {
+    border: none;
+    border-radius: 0;
+    font-family: "JetBrainsMono Nerd Font", Roboto, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    min-height: 0;
+}
+
+window#waybar {
+    /* The last number (0.5) is the opacity: 0 is clear, 1 is solid */
+    background-color: @background-alt; 
+    color: @foreground;
+    transition-property: background-color;
+    transition-duration: .5s;
+
+}
+
+tooltip {
+    background: @background-alt;
+    border: 1px solid @primary;
+    border-radius: 12px;
+}
+
+tooltip label {
+    color: @foreground;
+}
+
+/* --- WORKSPACES --- */
+#workspaces {
+    background: @background-alt;
+    margin: 5px 5px;
+    padding: 5px 5px;
+    border-radius: 16px;
+}
+
+#workspaces button {
+    padding: 0 5px;
+    margin: 0 3px;
+    padding-right: 7px;
+    background: transparent;
+    color: @foreground;
+    border-radius: 16px;
+}
+
+#workspaces button.active {
+    background: @primary;
+    color: @on-primary;
+}
+
+#workspaces button:hover {
+  padding-right: 7px;
+    background: @secondary;
+    color: @on-secondary;
+}
+
+/* --- MODULES COMMON STYLE --- */
+#clock,
+#battery,
+#cpu,
+#memory,
+#disk,
+#temperature,
+#backlight,
+#network,
+#pulseaudio,
+#custom-media,
+#tray,
+#mode,
+#idle_inhibitor,
+#scratchpad,
+#power-profiles-daemon,
+#mpd {
+    padding: 0 10px;
+    margin: 5px 2px;
+    border-radius: 16px;
+    background: @background-alt;
+    color: @foreground;
+}
+#battery{
+ margin-right: 15px;
+}
+
+/* --- SPECIFIC MODULE COLORS --- */
+
+/* Clock: Primary color accent */
+#clock {
+    background: @primary;
+    color: @on-primary;
+    margin-right: 5px;
+    margin-left: 10px;
+    
+}
+
+/* Network: Uses Secondary color */
+#network {
+    color: @primary;
+    background: @background-alt;
+}
+
+#network.disconnected {
+    color: @error;
+}
+
+/* PulseAudio */
+#pulseaudio {
+    color: @secondary;
+}
+
+#pulseaudio.muted {
+    color: @on-surface;
+    background: @surface-container;
+}
+
+/* Battery */
+#battery {
+    color: @tertiary;
+}
+
+#battery.charging,
+#battery.plugged {
+    color: @primary;
+}
+
+#battery.critical:not(.charging) {
+    background-color: @error;
+    color: @on-error;
+    animation-name: blink;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+/* Power Profiles */
+#power-profiles-daemon {
+    padding-right: 15px;
+}
+
+#power-profiles-daemon.performance {
+    color: @error;
+}
+
+#power-profiles-daemon.balanced {
+    color: @primary;
+}
+
+#power-profiles-daemon.power-saver {
+    color: @secondary;
+}
+
+/* Notifications */
+#custom-notification {
+    font-family: "JetBrainsMono Nerd Font";
+    background: @background-alt;
+    color: @foreground;
+    border-radius: 16px;
+    padding: 0 15px;
+    margin: 5px 5px;
+}
+
+/* Animations */
+@keyframes blink {
+    to {
+        background-color: @on-error;
+        color: @error;
+    }
+}

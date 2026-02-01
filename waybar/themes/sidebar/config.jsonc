@@ -1,0 +1,92 @@
+{
+    "position": "left",
+    "width": 40, 
+    "margin-top": 0,
+    "margin-bottom": 0,
+    "margin-left": 0,
+    "margin-right": 0,
+    "modules-left": [
+        "clock",
+        "custom/notification",
+        "power-profiles-daemon"
+    ],
+    "modules-center": [
+        "hyprland/workspaces"
+    ],
+    "modules-right": [
+        "mpd",
+        "pulseaudio",
+        "network",
+        "battery"
+    ],
+    // --- MODULE CONFIGURATION ---
+    "clock": {
+        "format": "{:%I\n%M}", // Vertical stacking for time
+        "tooltip-format": "{:%Y-%m-%d %H:%M}"
+    },
+    "custom/notification": {
+        "tooltip": false,
+        "format": "{icon}",
+        "format-icons": {
+            "notification": "",
+            "none": "",
+            "dnd-notification": "",
+            "dnd-none": ""
+        },
+        "on-click": "swaync-client -t -sw"
+    },
+    "power-profiles-daemon": {
+        "format": "{icon}",
+        "tooltip-format": "Power profile: {profile}",
+        "tooltip": true,
+        "format-icons": {
+            "default": "",
+            "performance": "",
+            "balanced": "",
+            "power-saver": ""
+        }
+    },
+    "hyprland/workspaces": {
+        "format": "{icon}",
+        "on-click": "activate",
+        "format-icons": {
+            "1": "1",
+            "2": "2",
+            "3": "3",
+            "4": "4",
+            "5": "5",
+            "default": ""
+        }
+    },
+    "mpd": {
+        "format": "{stateIcon}",
+        "format-disconnected": "",
+        "format-stopped": "",
+        "tooltip-format": "{artist} - {title}",
+        "on-click": "mpc toggle",
+        "state-icons": {
+            "paused": "",
+            "playing": ""
+        }
+    },
+    "pulseaudio": {
+        "format": "{icon}",
+        "format-muted": "",
+        "format-icons": {
+            "default": ["", "", ""]
+        },
+        "on-click": "pavucontrol"
+    },
+    "network": {
+        "interface": "wlp1s0",
+        "format-wifi": "{icon}",
+        "format-ethernet": "󰊗",
+        "format-disconnected": "󰤮",
+        "format-icons": ["󰤯", "󰤟", "󰤢", "󰤥", "󰤨"],
+        "tooltip-format": "{essid}"
+    },
+    "battery": {
+        "format": "{capacity}%",
+        "tooltip-format": "{time}"
+    }
+}

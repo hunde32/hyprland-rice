@@ -1,0 +1,555 @@
+2026-01-18T19:42:48 exception: Failed to open "/home/hunde/.config/mpd/state": No such file or directory
+2026-01-18T19:42:48 update: added Queen Ida/Mardi Gras!/02 OH! What Can I Do.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Beach Weather/Chit Chat/06 Sex, Drugs, Etc..m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Chezile/47/05 Beanie.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added cavetown/SONGS I LIKE IN 2025/01 my love mine all mine.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Steve Lacy/Bad Habit (sped up)/02 Bad Habit.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added d4vd/Feel It (From the original Series “Invincible”)/01 Feel It (From the original Series “Invincible”).m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added d4vd/Pales to Thorns/d4vd-Here-With-Me-Official-Music-Video.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Bill Withers/Bill Withers’ Greatest Hits/01 Just the Two of Us.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Tory-Lanez/Alone at Prom/01 Tory-Lanez-Enchanted-Waterfall-Lyrics.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 ffmpeg/mjpeg: bits 62 is invalid
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Could not find codec parameters for stream 1 (Video: mjpeg (JPEG LS), none(bt470bg/unknown/unknown), lossless): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+2026-01-18T19:42:48 update: added Tory-Lanez/Alone at Prom/02 The-Color-Violet.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Laufey/Bewitched_ The Goddess Edition/10 Laufey - From the Start.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Kitchie Nadal/Kitchie Nadal/02 Same Ground.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added bôa/Tall Snake EP/01 Duvet.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added bôa/Get There/02 Get There.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added bôa/Twilight/02 Twilight.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Indila/Mini World/03 Love Story.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Arctic Monkeys/R U Mine_/01 R U Mine_.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Arctic Monkeys/Favourite Worst Nightmare/01 Arctic Monkeys - 505.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Arctic Monkeys/AM/1-06 No. 1 Party Anthem.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Arctic Monkeys/AM/1-08 Fireside.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Arctic Monkeys/AM/1-04 Arabella.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Arctic Monkeys/AM/1-09 Why'd You Only Call Me When You're High_.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Arctic Monkeys/AM/1-10 Snap Out of It.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Arctic Monkeys/AM/1-03 One for the Road.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Arctic Monkeys/AM/1-11 Knee Socks.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Arctic Monkeys/AM/1-05 I Want It All.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Arctic Monkeys/AM/1-01 Do I Wanna Know_.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Jellyfish/Best!/05 Bye, Bye, Bye.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Harry Styles/Harry’s House/04 As It Was.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Scott Kempner/Tenement Angels/12 I Wanna Be Yours.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Adele/Greatest Hits/1-01 Skyfall.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Coldplay/X&Y/04 Fix You.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Coldplay/Viva la Vida or Death and All His Friends/Viva la vida.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Coldplay/Parachutes/03 Spies.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Coldplay/Parachutes/02 Shiver.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Coldplay/Parachutes/04 Sparks.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Coldplay/Parachutes/05 Yellow.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Coldplay/Ghost Stories Live 2014/2-12 A Sky Full of Stars.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Lord Huron/Strange Trails/14 The Night We Met.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Imogen Heap/Speak for Yourself/01 Headlock.m4a
+2026-01-18T19:42:48 update: added Daniela Bessia 安达/Crazy (Official Music Video)/01 Crazy (Official Music Video).m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added The Neighbourhood/I'm Sorry.._/04 Sweater Weather.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added The Neighbourhood/The Neighbourhood/05 Softcore.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Joy Crookes/Skin/09 Feet Don’t Fail Me Now.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added The Weeknd, JENNIE & Lily‐Rose Depp/The Idol_ Episode 4/01 The Weeknd with JENNIE, Lily‐Rose Depp - One of the Girls.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added James Blunt/Goodbye My Lover (disc 2)/01 Goodbye My Lover (video mix).m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added /Paramore-Hard-Times-Lyrics.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Ravyn Lenae/Love Me Not_Love Is Blind/01 Love Me Not.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added David Kushner/The Dichotomy/17 Daylight.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Alan Walker/Faded.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added JVKE/this is what feels like /01 golden hour.m4a
+2026-01-18T19:42:48 update: added Various Artists/Momentos 2015 _ vol. I_ Canciones internacionales/02 Beach House - Space Song.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/So Fresh_ The Hits Of Winter 2021/07 GIVĒON - Heartbreak Anniversary.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/2007 GRAMMY Nominees/15 James Blunt - You're Beautiful.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Kuschelrock Best of Vol. 21 & 22/2-03 Jason Mraz - I'm Yours.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Now That's What I Call Music! 2004_ The DVD/08 Nelly featuring Kelly Rowland - Dilemma.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Radio 538 Hitzone_ Best of 2011/2-02 Bruno Mars - Grenade.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Radio 538 Hitzone_ Best of 2011/1-02 Gotye feat. Kimbra - Somebody That I Used to Know.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/So Fresh_ The Hits of Winter 2022/05 AnnenMayKantereit - Tom’s Diner.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/So Fresh_ The Hits of Summer 2024 + The Best of 2023/1-07 Noah Kahan - Stick Season.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Feel Good Mix - The Best of 2004/13 3 Doors Down - Here Without You.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Essential R&B_ Hit Selection/1-10 Sean Kingston - Beautiful Girls.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Modern Classics/12 Weyes Blood - Andromeda.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Kuschelrock 36/1-03 Arthur James - Car’s Outside.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Promo Only_ Mainstream Radio, April 1998/03 Goo Goo Dolls - Iris.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Q_ The Album/1-04 Coldplay - The Scientist.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/MNM Big Hits_ Best of 2019/2-05 Duncan Laurence - Arcade.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Radio 538_ Hitzone 77/1-02 Coldplay - Hymn for the Weekend.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Promo Only_ Mainstream Radio, July 2006/17 Snow Patrol - Chasing Cars.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Bravo Hits 50/1-05 Akon - Lonely.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Trending Global Hits/08 WILLOW - Wait a Minute!.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/100 Greatest 2019 Songs/02 Cardi B & Bruno Mars - Please Me.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Various Artists/Promo Only_ Modern Rock Radio, December 2015/01 Coldplay - Adventure of a Lifetime.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Keane/Hopes and Fears/01 Somewhere Only We Know.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Keane/Hopes and Fears/02 This Is The Last Time.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Keane/Hopes and Fears/07 She Has No Time.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Keane/Hopes and Fears/09 Sunshine.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Keane/Hopes and Fears/05 Everybody's Changing.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Keane/Hopes and Fears/11 Bedshaped.m4a
+2026-01-18T19:42:48 update: added Keane/Winter 2003/14 I Can’t Stop Now.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Billie Eilish/HIT ME HARD AND SOFT/05 WILDFLOWER.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Cafune/Running/24 Tek It.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added yung kai/blue/01 blue.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Clara La San/Single/07 Want U.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Mitski/Be the Cowboy/12 Washing Machine Heart.m4a
+2026-01-18T19:42:48 update: added House of Lions/Supernova (Official Video).m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Cigarettes After Sex/Cry/07 Cry.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Stephen Sanchez/Until I Found You/01 Until I Found You (1).m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Stephen Sanchez/Until I Found You/01 Until I Found You.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Kenya Grace/Strangers/01 Strangers.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added /The-Weeknd-Less-ThanZero-Official-Lyric-Video.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Brent Faiyaz/A.M. Paradox/ 01 Poison.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added /Duke-Dumont-Ocean-Drive-Official-Music-Video.m4a
+2026-01-18T19:42:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:42:48 update: added Mario/Turning Point/13 Mario feat. Jadakiss & T.I. - Let Me Love You (remix).m4a
+2026-01-18T19:43:10 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:43:11 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:43:11 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:46:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:46:42 player: played "Alan Walker/Faded.m4a"
+2026-01-18T19:46:42 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:46:42 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:50:56 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:51:15 player: played "Arctic Monkeys/AM/1-01 Do I Wanna Know_.m4a"
+2026-01-18T19:51:15 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:51:15 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:52:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:52:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:54:19 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:54:41 player: played "Arctic Monkeys/AM/1-03 One for the Road.m4a"
+2026-01-18T19:57:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T19:58:10 player: played "Arctic Monkeys/AM/1-04 Arabella.m4a"
+2026-01-18T20:00:52 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:01:15 player: played "Arctic Monkeys/AM/1-05 I Want It All.m4a"
+2026-01-18T20:04:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:05:20 player: played "Arctic Monkeys/AM/1-06 No. 1 Party Anthem.m4a"
+2026-01-18T20:08:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:08:21 player: played "Arctic Monkeys/AM/1-08 Fireside.m4a"
+2026-01-18T20:10:42 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:11:03 player: played "Arctic Monkeys/AM/1-09 Why'd You Only Call Me When You're High_.m4a"
+2026-01-18T20:13:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:14:17 player: played "Arctic Monkeys/AM/1-10 Snap Out of It.m4a"
+2026-01-18T20:18:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:18:34 player: played "Arctic Monkeys/AM/1-11 Knee Socks.m4a"
+2026-01-18T20:22:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:23:19 player: played "Arctic Monkeys/Favourite Worst Nightmare/01 Arctic Monkeys - 505.m4a"
+2026-01-18T20:26:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:26:39 player: played "Arctic Monkeys/R U Mine_/01 R U Mine_.m4a"
+2026-01-18T20:29:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:30:07 player: played "Beach Weather/Chit Chat/06 Sex, Drugs, Etc..m4a"
+2026-01-18T20:30:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:30:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:30:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:30:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:33:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:34:03 player: played "Bill Withers/Bill Withers’ Greatest Hits/01 Just the Two of Us.m4a"
+2026-01-18T20:34:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:34:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:41:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:41:59 player: played "Billie Eilish/HIT ME HARD AND SOFT/05 WILDFLOWER.m4a"
+2026-01-18T20:41:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:41:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:43:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:43:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:43:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:43:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:43:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:43:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:43:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:43:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:43:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:46:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:47:05 player: played "bôa/Tall Snake EP/01 Duvet.m4a"
+2026-01-18T20:47:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:47:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:48:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:48:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:48:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:49:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:50:01 player: played "Clara La San/Single/07 Want U.m4a"
+2026-01-18T20:50:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T20:50:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T21:09:01 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T21:09:22 player: played "Coldplay/Ghost Stories Live 2014/2-12 A Sky Full of Stars.m4a"
+2026-01-18T21:09:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T21:09:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T21:14:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T21:14:27 player: played "Coldplay/Parachutes/02 Shiver.m4a"
+2026-01-18T21:14:28 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T21:14:28 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:04:58 player: played "Coldplay/Parachutes/03 Spies.m4a"
+2026-01-18T22:05:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:15:33 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:15:54 player: played "Coldplay/Parachutes/03 Spies.m4a"
+2026-01-18T22:19:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:19:23 player: played "Arctic Monkeys/AM/1-04 Arabella.m4a"
+2026-01-18T22:19:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:19:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:22:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:22:55 player: played "The-Weeknd-Less-ThanZero-Official-Lyric-Video.m4a"
+2026-01-18T22:22:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:22:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:26:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:26:33 player: played "Ravyn Lenae/Love Me Not_Love Is Blind/01 Love Me Not.m4a"
+2026-01-18T22:26:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:26:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:13 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:32 player: played "Jellyfish/Best!/05 Bye, Bye, Bye.m4a"
+2026-01-18T22:30:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:30:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:23 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:29 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:31:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:23 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:23 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:34:59 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:35:09 player: played "Indila/Mini World/03 Love Story.m4a"
+2026-01-18T22:35:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:35:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:35:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:35:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:35:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:35:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:38:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:38:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T22:38:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:01:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:01:30 player: played "yung kai/blue/01 blue.m4a"
+2026-01-18T23:01:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:01:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:05:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:05:44 player: played "Arctic Monkeys/Favourite Worst Nightmare/01 Arctic Monkeys - 505.m4a"
+2026-01-18T23:05:44 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:05:44 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:05:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:05:51 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:05:51 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:06:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:06:58 ffmpeg/mjpeg: bits 62 is invalid
+2026-01-18T23:06:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Could not find codec parameters for stream 1 (Video: mjpeg (JPEG LS), none(bt470bg/unknown/unknown), lossless): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+2026-01-18T23:06:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:06:58 ffmpeg/mjpeg: bits 62 is invalid
+2026-01-18T23:06:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Could not find codec parameters for stream 1 (Video: mjpeg (JPEG LS), none(bt470bg/unknown/unknown), lossless): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+2026-01-18T23:06:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:06:58 ffmpeg/mjpeg: bits 62 is invalid
+2026-01-18T23:06:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: Could not find codec parameters for stream 1 (Video: mjpeg (JPEG LS), none(bt470bg/unknown/unknown), lossless): unspecified size
+Consider increasing the value for the 'analyzeduration' (0) and 'probesize' (5000000) options
+2026-01-18T23:10:50 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:11:10 player: played "Tory-Lanez/Alone at Prom/02 The-Color-Violet.m4a"
+2026-01-18T23:11:10 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:11:10 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:14:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:15:08 player: played "Jellyfish/Best!/05 Bye, Bye, Bye.m4a"
+2026-01-18T23:15:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:15:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:17:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:18:03 player: played "Stephen Sanchez/Until I Found You/01 Until I Found You (1).m4a"
+2026-01-18T23:18:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:18:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:24:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:24:57 player: played "Various Artists/Promo Only_ Modern Rock Radio, December 2015/01 Coldplay - Adventure of a Lifetime.m4a"
+2026-01-18T23:27:12 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:27:34 player: played "d4vd/Feel It (From the original Series “Invincible”)/01 Feel It (From the original Series “Invincible”).m4a"
+2026-01-18T23:32:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:32:39 player: played "Coldplay/Parachutes/02 Shiver.m4a"
+2026-01-18T23:35:53 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:35:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:35:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:14 player: played "Various Artists/Promo Only_ Mainstream Radio, April 1998/03 Goo Goo Dolls - Iris.m4a"
+2026-01-18T23:36:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:14 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:30 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:31 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:38 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:45 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:36:58 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:40:14 player: played "Keane/Hopes and Fears/01 Somewhere Only We Know.m4a"
+2026-01-18T23:48:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:48:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:48:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:49:16 player: played "bôa/Tall Snake EP/01 Duvet.m4a"
+2026-01-18T23:53:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:53:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:53:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:55:15 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:55:37 player: played "Clara La San/Single/07 Want U.m4a"
+2026-01-18T23:55:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:55:37 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:56:00 player: played "bôa/Tall Snake EP/01 Duvet.m4a"
+2026-01-18T23:56:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-18T23:56:25 player: played "bôa/Tall Snake EP/01 Duvet.m4a"
+2026-01-20T14:32:24 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-21T06:36:38 player: played "Lord Huron/Strange Trails/14 The Night We Met.m4a"
+2026-01-21T13:21:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-21T16:38:35 player: played "Lord Huron/Strange Trails/14 The Night We Met.m4a"
+2026-01-21T22:10:22 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-22T09:13:04 player: played "Lord Huron/Strange Trails/14 The Night We Met.m4a"
+2026-01-22T09:14:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-22T15:17:27 player: played "Lord Huron/Strange Trails/14 The Night We Met.m4a"
+2026-01-22T15:34:25 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-01-22T15:50:47 player: played "Lord Huron/Strange Trails/14 The Night We Met.m4a"
+2026-02-01T19:16:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:20 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:40 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:43 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:44 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:46 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:47 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:48 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:49 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:55 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:16:59 player: played "Coldplay/Parachutes/02 Shiver.m4a"
+2026-02-01T19:26:35 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:26:35 update: added /lukrembo-donut-royalty-free-vlog-music.m4a
+2026-02-01T19:26:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:26:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:26:57 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:27:14 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:27:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:27:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:27:18 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:27:21 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:27:26 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:27:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:27:27 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:38:04 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:38:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:38:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:38:05 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:38:07 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:38:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:38:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:38:07 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:38:08 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:38:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:38:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:38:08 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:41:17 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:41:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:41:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:41:17 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:42:32 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:42:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:42:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:42:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:43:52 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:43:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:43:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:43:54 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:46:41 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:46:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:46:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:46:41 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:47:31 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:47:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:47:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:47:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:47:33 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:47:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:47:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:47:34 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:51:03 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:51:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:51:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:51:03 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:51:32 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:51:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:51:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:51:32 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:54:02 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:54:02 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:54:02 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:54:02 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:54:03 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:54:04 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:54:04 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:54:04 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:55:20 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:55:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:55:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:55:21 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:59:16 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T19:59:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:59:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T19:59:16 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T20:00:09 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T20:00:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T20:00:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T20:00:09 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T20:00:35 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T20:00:35 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T20:00:35 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T20:00:35 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T20:02:52 player: played "lukrembo-donut-royalty-free-vlog-music.m4a"
+2026-02-01T20:33:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T20:33:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T20:33:39 ffmpeg/mov,mp4,m4a,3gp,3g2,mj2: stream 0, timescale not set
+2026-02-01T20:35:02 player: played "Cigarettes After Sex/Cry/07 Cry.m4a"

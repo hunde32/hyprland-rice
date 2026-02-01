@@ -1,0 +1,126 @@
+{
+    "position": "top",
+    "modules-left": [
+        "clock",
+        "custom/notification",
+        "power-profiles-daemon"
+    ],
+    "modules-center": [
+        "hyprland/workspaces"
+    ],
+    "modules-right": [
+	"custom/cava",
+        "mpd",
+        "pulseaudio",
+        "network",
+        "battery"
+    ],
+    // --- MODULE CONFIGURATION ---
+    "clock": {
+    "interval": 60,
+    "format": "{:%I:%M %p}",
+    "max-length": 25
+},
+"custom/cava": {
+    "format": "{}",
+    "exec": "~/.config/waybar/scripts/waybar-cava.sh",
+    "return-type": "json"
+},
+    "custom/notification": {
+        "tooltip": false,
+        "format": "{icon}",
+        "format-icons": {
+            "notification": "",
+            "none": "",
+            "dnd-notification": "",
+            "dnd-none": ""
+        },
+        "on-click": "swaync-client -t -sw"
+    },
+    "power-profiles-daemon": {
+        "format": "{icon}",
+        "tooltip-format": "Power profile: {profile}",
+        "tooltip": true,
+        "format-icons": {
+            "default": "",
+            "performance": "",
+            "balanced": "",
+            "power-saver": ""
+        }
+    },
+"hyprland/workspaces": {
+	"format": "{icon}",
+	"format-icons": {
+		"1": "",
+		"2": "",
+		"3": "",
+		"4": "",
+		"5": ""
+	},
+       "persistent-workspaces": {
+             "*": 5, // 5 workspaces by default on every monitor
+             "HDMI-A-1": 3 // but only three on HDMI-A-1
+       }
+},
+
+    "mpd": {
+    "format": "{stateIcon} {artist} - {title}", // Shows artist and title on the bar
+    "format-disconnected": " Disconnected",
+    "format-stopped": " Stopped",
+    "tooltip-format": "MPD (connected)",
+    "on-click": "mpc toggle",
+    "state-icons": {
+        "paused": "",
+        "playing": ""
+    },
+    "max-length": 40 // Optional: Prevents long titles from pushing other modules off-screen
+},
+    "cava": {
+        "cava_config": "$XDG_CONFIG_HOME/cava/waybar_raw.conf",
+        "input_delay": 2,
+        "format-icons" : ["▁", "▂", "▃", "▄", "▅", "▆", "▇", "█" ],
+        "actions": {
+                   "on-click-right": "mode"
+                   }
+    },
+
+"pulseaudio": {
+    "format": "{volume}% {icon}",
+    "format-bluetooth": "{volume}% {icon}",
+    "format-muted": "",
+    "format-icons": {
+        "alsa_output.pci-0000_00_1f.3.analog-stereo": "",
+        "alsa_output.pci-0000_00_1f.3.analog-stereo-muted": "",
+        "headphone": "",
+        "hands-free": "",
+        "headset": "",
+        "phone": "",
+        "phone-muted": "",
+        "portable": "",
+        "car": "",
+        "default": ["", ""]
+    },
+    "scroll-step": 1,
+    "on-click": "pavucontrol",
+    "ignored-sinks": ["Easy Effects Sink"]
+},
+    "network": {
+        "interface": "wlp1s0",
+        "format-wifi": "{icon}",
+        "format-ethernet": "󰊗",
+        "format-disconnected": "󰤮",
+        "format-icons": ["󰤯", "󰤟", "󰤢", "󰤥", "󰤨"],
+        "tooltip-format": "{essid}"
+    },
+    "battery": {
+    "bat": "BAT0",
+    "interval": 60,
+    "states": {
+        "warning": 30,
+        "critical": 15
+    },
+    "format": "{capacity}% {icon}",
+    "format-icons": ["", "", "", "", ""],
+    "max-length": 25
+}
+}
